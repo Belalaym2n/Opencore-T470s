@@ -1,8 +1,7 @@
 # Lenovo Thinkpad T470s 
 ## Opencore Hackintosh
 
-***It should go without saying but I will say it anyway. Hackintoshing is dangerous and could ruin your hardware permanently and I take no responsibility for your stuff. These materials are only provided as an academic curiosity, please Hackintosh at your own risk. No guarantees are implied and no relationship is established between the users of this repo and myself. I own nothing, everything belongs to Apple/Lenovo/OpenCore Team. Thanks.***
-
+edit
 I'm creating this repository for those who might be trying to Hackintosh a computer that is similar to mine. I have reached what I beleive to a moderate level of stability with this EFI, and I am unlikely to update this repo until after the puclic release of MacOS 11 Big Sur. Happy Hacking! 
 
 Currently running Mac OS 10.15.6 Catalina on OC 0.5.9
